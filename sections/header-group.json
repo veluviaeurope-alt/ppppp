@@ -34,12 +34,20 @@
             "text": "Satisfait ou remboursé",
             "url": ""
           }
+        },
+        "message_RWGLnm": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison offerte",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_zDC3QQ",
-        "message_YUJByp"
+        "message_YUJByp",
+        "message_RWGLnm"
       ],
       "settings": {
         "enable_sticky": false,
