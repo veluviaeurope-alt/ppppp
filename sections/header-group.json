@@ -20,10 +20,26 @@
             "text": "Offre limitée -50%",
             "url": ""
           }
+        },
+        "message_zDC3QQ": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% sécurisé",
+            "url": ""
+          }
+        },
+        "message_YUJByp": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_zDC3QQ",
+        "message_YUJByp"
       ],
       "settings": {
         "enable_sticky": false,
