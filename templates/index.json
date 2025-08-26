@@ -69,10 +69,122 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "logo_list_mLj3fE": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_g7eVRX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/BuzzFeed-Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_tLFydr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Mens-Health-Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_jq34pE": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_xPPTeP": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/gq-magazine-logo-png-transparent.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_g7eVRX",
+        "logo_tLFydr",
+        "logo_jq34pE",
+        "logo_xPPTeP"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_yTX3Wb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_cKF8nF": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_3fjLVm": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Veluvia ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_cKF8nF",
+        "heading_3fjLVm"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_zpVKji": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/16_d4616127-327c-4366-88c1-c6ffd37e24dd.png",
+        "mobile_image": "shopify://shop_images/15.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "faq",
-    "image_with_text_overlay_xLMTKE"
+    "image_with_text_overlay_xLMTKE",
+    "logo_list_mLj3fE",
+    "rich_text_yTX3Wb",
+    "image_with_text_overlay_zpVKji"
   ]
 }
