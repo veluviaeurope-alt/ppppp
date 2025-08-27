@@ -170,7 +170,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/16v2.png",
+        "image": "shopify://shop_images/17.png",
         "mobile_image": "shopify://shop_images/15v2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
