@@ -66,9 +66,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
-        "logo_max_width": 120,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/veluvia.png",
+        "logo_max_width": 205,
+        "logo_mobile_max_width": 110,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
