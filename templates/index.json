@@ -338,6 +338,12 @@
           "disabled": true,
           "settings": {}
         },
+        "liquid_rM3kK3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-heart-color: #E24343;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\n    font-size: 14px;\n}\n\n.social-proof-slide__block-hearts {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-heart-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-heart {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-heart svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-heart-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-hearts\">\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    4.8 sur +1500 Clients !\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
         "title_cGU3nw": {
           "type": "title",
           "settings": {
@@ -364,6 +370,12 @@
           "type": "rating",
           "settings": {
             "show_empty": false
+          }
+        },
+        "liquid_WPXGWk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"\n  margin: 20px;\n  padding: 0px;\n  background-color: #FFFFFF;\n  color: #FFFFFF;\n  text-align: center;\n  font-family: Arial, sans-serif;\n  font-size: 16px;\n  line-height: 1.2;\n  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);\n\">\n\n  <div style=\"\n    background-color: #a76bd2;\n    padding: 15px;\n  \">\n\n    <span style=\"font-weight: bold; text-transform: uppercase; font-size: 14px;\">\n      🎄 Offres Spéciales de Fin d’Année 🎁\n    </span>\n    <br>\n    <span style=\"display: inline-block; margin-top: 10px; font-size: 11px; text-transform: none; font-weight: normal;\">\n      Profitez de <strong>-30% sur toute la boutique</strong> pour célébrer Noël et le Nouvel An ✨<br>\n      Offre valable jusqu’au 31 décembre, ne la manquez pas !\n    </span>\n\n  </div>\n</div>"
           }
         },
         "separator_8dLt6T": {
@@ -411,11 +423,13 @@
       },
       "block_order": [
         "vendor_Vx7iPR",
+        "liquid_rM3kK3",
         "title_cGU3nw",
         "badges_m8nNW4",
         "price_NVzqeX",
         "liquid_CbJMnW",
         "rating_GQpdJi",
+        "liquid_WPXGWk",
         "separator_8dLt6T",
         "description_aYAfXP",
         "variant_picker_dx7TDn",
