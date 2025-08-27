@@ -171,7 +171,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/17.png",
-        "mobile_image": "shopify://shop_images/15v2.png",
+        "mobile_image": "shopify://shop_images/15_c568c916-1872-42be-8cda-6de2be6e922a.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
