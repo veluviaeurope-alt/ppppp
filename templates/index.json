@@ -375,7 +375,7 @@
         "liquid_WPXGWk": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"\n  margin: 20px;\n  padding: 0px;\n  background-color: #FFFFFF;\n  color: #FFFFFF;\n  text-align: center;\n  font-family: Arial, sans-serif;\n  font-size: 16px;\n  line-height: 1.2;\n  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);\n\">\n\n  <div style=\"\n    background-color: #a76bd2;\n    padding: 15px;\n  \">\n\n    <span style=\"font-weight: bold; text-transform: uppercase; font-size: 14px;\">\n      🎄 Offres Spéciales de Fin d’Année 🎁\n    </span>\n    <br>\n    <span style=\"display: inline-block; margin-top: 10px; font-size: 11px; text-transform: none; font-weight: normal;\">\n      Profitez de <strong>-30% sur toute la boutique</strong> pour célébrer Noël et le Nouvel An ✨<br>\n      Offre valable jusqu’au 31 décembre, ne la manquez pas !\n    </span>\n\n  </div>\n</div>"
+            "liquid": "<div style=\"\n  margin: 20px;\n  padding: 0px;\n  background-color: #FFFFFF;\n  color: #FFFFFF;\n  text-align: center;\n  font-family: Arial, sans-serif;\n  font-size: 16px;\n  line-height: 1.2;\n  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);\n\">\n\n  <div style=\"\n    background-color: #a76bd2;\n    padding: 15px;\n  \">\n\n    <span style=\"font-weight: bold; text-transform: uppercase; font-size: 14px;\">\n      🎄 Offres Spéciales de Fin d’Année 🎁\n    </span>\n    <br>\n    <span style=\"display: inline-block; margin-top: 10px; font-size: 11px; text-transform: none; font-weight: normal;\">\n      Profitez de <strong>-50% sur toute la boutique</strong> pour célébrer Noël et le Nouvel An ✨<br>\n      Offre valable jusqu’au 31 décembre, ne la manquez pas !\n    </span>\n\n  </div>\n</div>"
           }
         },
         "separator_8dLt6T": {
@@ -455,6 +455,137 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_TNCJHb": {
+      "type": "tabs",
+      "blocks": {
+        "tab_6VMcrc": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison 100% discrète",
+            "content": "<p><br/>Emballage neutre sans mention du produit, expédié dans un colis anonyme. Aucun voisin ne saura ce que vous avez commandé. Facture discrète et service client confidentiel pour préserver votre intimité en toute sérénité.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_QrkKpq": {
+          "type": "tab",
+          "settings": {
+            "title": "Entretien facile",
+            "content": "<p><br/>La housse est <strong>100% amovible</strong> et se lave facilement en machine à 30°C. Tissu antibactérien qui reste frais et propre après chaque lavage. Séchage rapide pour une utilisation quotidienne sans contrainte.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_hcMQWV": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez le 30 jours gratuitement",
+            "content": "<p>Essayez VELUVIA sans risque<strong> pendant 30 jours.</strong> si vous n'êtes pas complètement satisfait de votre produit vous avez la possibilité de le retourner et vous<strong> recevrez un remboursement intégral.</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_z4yyzk": {
+          "type": "tab",
+          "settings": {
+            "title": "Service clients 7/7J",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@veluvia.fr</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_6VMcrc",
+        "tab_QrkKpq",
+        "tab_hcMQWV",
+        "tab_z4yyzk"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "faq_bhwiQr": {
+      "type": "faq",
+      "blocks": {
+        "item_HHyXVr": {
+          "type": "item",
+          "settings": {
+            "title": "\"Ça arrive dans combien de temps ?\"",
+            "content": "<p>Votre commande est expédiée sous 24h et vous la recevrez entre <strong>3 à 8 jours ouvrés</strong> selon votre localisation.</p><p>Vous recevrez un email de confirmation avec le numéro de suivi dès l'expédition pour suivre votre colis en temps réel.</p>"
+          }
+        },
+        "item_6kByRe": {
+          "type": "item",
+          "settings": {
+            "title": "\"Ça fonctionne pour quelle position ?\"",
+            "content": "<p><br/>La seule limite est votre imagination ! Notre coussin s'adapte à toutes les positions grâce à sa forme ergonomique et sa densité parfaitement étudiée.</p><p>Que ce soit pour plus de confort, réduire les tensions ou explorer de nouvelles sensations, il vous accompagne dans tous vos moments d'intimité.</p><p><em>Son design polyvalent convient aussi bien aux débutants qu'aux utilisateurs expérimentés.</em></p>"
+          }
+        },
+        "item_H9Lj3N": {
+          "type": "item",
+          "settings": {
+            "title": "\"Vous avez d'autres couleurs ?\"",
+            "content": "<p>Actuellement disponible uniquement dans notre coloris signature, mais suite à la forte demande, nous travaillons activement sur de nouvelles couleurs !</p><p>N'hésitez pas à nous faire part de vos idées et préférences via notre service client. Vos suggestions nous aident à développer les coloris qui vous plaisent vraiment.</p><p><em>Inscrivez-vous à notre newsletter pour être averti(e) en avant-première des nouveaux coloris disponibles.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_HHyXVr",
+        "item_6kByRe",
+        "item_H9Lj3N"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_7xKXwP": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre Service clientèle est disponible 7J sur 7. temps de réponse moyen 24h",
+        "title": "Une question ?",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#a76bd2",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -466,6 +597,9 @@
     "before_after_image_eGMWBw",
     "multi_column_9ezyKB",
     "multi_column_YRRezK",
-    "featured_product_a4wqHm"
+    "featured_product_a4wqHm",
+    "tabs_TNCJHb",
+    "faq_bhwiQr",
+    "contact_7xKXwP"
   ]
 }
