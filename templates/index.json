@@ -216,7 +216,7 @@
             "column_size": "3",
             "title": "« Mon intimité a changé »",
             "heading_tag": "h2",
-            "content": "<p><br/>Après quelques semaines d’exercices, j’ai eu l’impression de redécouvrir mon corps. Les orgasmes sont beaucoup plus intenses  c’est vraiment incroyable !<br/><br/>— <strong>Kristina F.</strong><br/></p>",
+            "content": "<p>Après quelques semaines d’exercices, j’ai eu l’impression de redécouvrir mon corps. Les orgasmes sont beaucoup plus intenses  c’est vraiment incroyable !<br/>— <strong>Kristina F.</strong><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -229,7 +229,7 @@
             "column_size": "3",
             "title": "« Le sexe redevient excitant »",
             "heading_tag": "h2",
-            "content": "<p><em>Après plusieurs années de relation, une certaine routine s’était installée… Veluvia a redonné un vrai souffle à notre vie intime.</em><br/><br/><br/>— <strong>Xenia</strong></p>",
+            "content": "<p><em>Après plusieurs années de relation, une certaine routine s’était installée… Veluvia a redonné un vrai souffle à notre vie intime.</em><br/>— <strong>Xenia</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -240,9 +240,9 @@
           "settings": {
             "image": "shopify://shop_images/Background_Blau_DRYN_Erlebniskissen.jpg",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "« Je le sens beaucoup plus »",
+            "heading_tag": "h2",
+            "content": "<p><em>La position du corps change tellement que je le ressens beaucoup plus intensément – à chaque fois ! Le coussin fait désormais partie intégrante de notre vie intime.</em><br/>— <strong>Alessia L.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -258,14 +258,181 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "<p>.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "multi_column_YRRezK": {
+      "type": "multi-column",
+      "blocks": {
+        "item_WxQQrQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/NWjbJhdn7k.jpg",
+            "column_size": "3",
+            "title": "« Plus de profondeur, plus de connexion »",
+            "heading_tag": "h3",
+            "content": "<p><em>Le coussin place le corps dans la position idéale. On ressent vraiment la différence – surtout dans les positions plus profondes.</em><br/>— <strong>Katrin S.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NKqURk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/zrKQy7dwRG_97f5e90c-5c8e-4517-8468-b182f352f1ba.jpg",
+            "column_size": "3",
+            "title": "« Plus de contrôle, meilleur sexe »",
+            "heading_tag": "h3",
+            "content": "<p>Je me sens beaucoup plus consciente de mon corps et je peux participer plus activement pendant nos rapports. J’aurais dû m’y mettre bien plus tôt !<br/>— <strong>Anja</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_z3BmDQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Treppe_DRYN_Erlebniskissen.jpg",
+            "column_size": "3",
+            "title": "« Moins, c’est plus ! »",
+            "heading_tag": "h3",
+            "content": "<p>Petit mais puissant. Veluvia a affiné ma perception corporelle et m’a permis d’activer mon périnée plus consciemment – le sexe est devenu incroyablement meilleur.<br/>— <strong>Alessia L.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_WxQQrQ",
+        "item_NKqURk",
+        "item_z3BmDQ"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_a4wqHm": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_Vx7iPR": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title_cGU3nw": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_m8nNW4": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_NVzqeX": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_GQpdJi": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_8dLt6T": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_aYAfXP": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_dx7TDn": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_3h94ec": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_zdnp6k": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_GcF47y": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_Vx7iPR",
+        "title_cGU3nw",
+        "badges_m8nNW4",
+        "price_NVzqeX",
+        "rating_GQpdJi",
+        "separator_8dLt6T",
+        "description_aYAfXP",
+        "variant_picker_dx7TDn",
+        "quantity_selector_3h94ec",
+        "buy_buttons_zdnp6k",
+        "pickup_availability_GcF47y"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "veluvia-plus-souvent-plus-intense-plus-simple",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     }
   },
@@ -276,6 +443,8 @@
     "rich_text_yTX3Wb",
     "image_with_text_overlay_zpVKji",
     "before_after_image_eGMWBw",
-    "multi_column_9ezyKB"
+    "multi_column_9ezyKB",
+    "multi_column_YRRezK",
+    "featured_product_a4wqHm"
   ]
 }
