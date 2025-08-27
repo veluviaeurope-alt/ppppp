@@ -594,14 +594,14 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/3_7ae6a64c-dfc6-446f-9063-4d6f5318629e.png",
+            "custom_icon": "shopify://shop_images/oeil.png",
             "mobile_icon_width": 72,
             "icon_width": 80,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "100% discret",
+            "content": ""
           }
         },
         "item_Jeia3G": {
@@ -614,8 +614,22 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "title": "Satisfait ou remboursé",
+            "content": ""
+          }
+        },
+        "item_zinPp3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/liv_free.png",
+            "mobile_icon_width": 72,
+            "icon_width": 80,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Livraison Offerte",
+            "content": ""
           }
         },
         "item_RKRDPm": {
@@ -628,14 +642,15 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
+            "title": "Paiement 100% sécurisé",
+            "content": ""
           }
         }
       },
       "block_order": [
         "item_NeypXc",
         "item_Jeia3G",
+        "item_zinPp3",
         "item_RKRDPm"
       ],
       "name": "Text with icons",
