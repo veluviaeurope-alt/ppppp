@@ -366,6 +366,12 @@
             "liquid": "<style>\n  /* ====== KOMPRESSA stock alert ====== */\n  .kp-red-div {\n    display: inline-flex;\n    align-items: center;\n    gap: 8px;\n    padding: 6px 12px;\n    border-radius: 8px;\n    background-color: #ffcccc; /* fond rouge clair */\n    line-height: 1;\n    margin: 0; /* pas de centrage auto: inline-flex s'aligne avec le flux */\n  }\n\n  .kp-blink {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    display: inline-block;\n    background: #ff2b2b; /* point rouge */\n    animation: kp-blink 1s ease-in-out infinite;\n    /* Pour être sûr que le point reste visible si le thème met une color sur <div> */\n    color: transparent;\n  }\n\n  /* Clignotement via l’opacité (plus fiable que visibility dans certains thèmes) */\n  @keyframes kp-blink {\n    0%, 100% { opacity: 1; transform: scale(1); }\n    50%      { opacity: 0.25; transform: scale(1.1); }\n  }\n\n  /* Texte */\n  .kp-text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 2px;\n    color: #ad0000;\n    font-weight: 600;\n    font-size: 12px;\n    text-align: left;\n    letter-spacing: .1px;\n  }\n\n  /* Respecte l’accessibilité si l’utilisateur préfère réduire les animations */\n  @media (prefers-reduced-motion: reduce) {\n    .kp-blink { animation: none; }\n  }\n</style>\n\n<div class=\"kp-red-div\" role=\"status\" aria-live=\"polite\">\n  <span class=\"kp-blink\" aria-hidden=\"true\"></span>\n  <span class=\"kp-text\">Stock faible</span>\n</div>"
           }
         },
+        "kaching_bundles_app_block_g4fMdk": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "rating_GQpdJi": {
           "type": "rating",
           "settings": {
@@ -428,6 +434,7 @@
         "badges_m8nNW4",
         "price_NVzqeX",
         "liquid_CbJMnW",
+        "kaching_bundles_app_block_g4fMdk",
         "rating_GQpdJi",
         "liquid_WPXGWk",
         "separator_8dLt6T",
